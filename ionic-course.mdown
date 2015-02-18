@@ -8,7 +8,7 @@ For years now, hybrid apps have been mocked and jeered by native app developers 
 
 Without further ado, we'd like to welcome you to the future of mobile app development freed from the shackles of native languages & frameworks. Lets learn what the new mobile stack consists of and how it works.
 
-## Introducing Ionic.
+## Introducing Ionic. yo
 
 {intro-video: completed-songhop-demo} 
 
